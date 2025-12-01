@@ -62,9 +62,11 @@ Scraping do resultado das loterias em Python
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolanes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolanes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/rodrigolanes)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolanes&layout=compact&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolanes&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/rodrigolanes)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigolanes&theme=radical&hide_border=true)](https://github.com/rodrigolanes)
 
 </div>
 
@@ -81,15 +83,5 @@ Scraping do resultado das loterias em Python
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigolanes@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-**"Transformando ideias em código, código em soluções."**
-
-💼 Aberto a oportunidades e colaborações
 
 </div>
