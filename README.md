@@ -30,6 +30,13 @@ Desenvolvedor apaixonado por criar soluções práticas e inovadoras. Trabalho c
 
 ## 📱 Projetos em Destaque
 
+### 🚗 [Fipe](https://github.com/rodrigolanes/fipe)
+
+Aplicação Flutter para exibir dados da Fipe de forma organizada
+
+- **Stack:** Dart, Flutter
+- **Status:** 🟢 Ativo
+
 ### 🎭 [O que é o que é?](https://github.com/rodrigolanes/oqueeoquee)
 
 Aplicação Flutter de piadas 'O que é o que é?' com sistema inteligente de contadores
@@ -39,17 +46,24 @@ Aplicação Flutter de piadas 'O que é o que é?' com sistema inteligente de co
 
 ### 🏥 [Fiz Plantão](https://github.com/rodrigolanes/fiz_plantao)
 
-Aplicativo mobile desenvolvido em Flutter para gestão de plantões
+Aplicativo mobile desenvolvido em Flutter para gestão de plantões médicos
 
 - **Stack:** Dart, Flutter
 - **Status:** 🟢 Ativo
 
-### 🤖 [Rodrigo Lanes Bot](https://github.com/rodrigolanes/rodrigolanesbot)
+### 🔍 [Fipe Crawler](https://github.com/rodrigolanes/fipecrawler)
 
-Bot automatizado desenvolvido em TypeScript
+Crawler Python para buscar dados de veículos da tabela FIPE com cache em Supabase PostgreSQL
 
-- **Stack:** TypeScript
-- **Status:** 🟡 Manutenção
+- **Stack:** Python, Supabase
+- **Status:** 🟢 Ativo
+
+### 📄 [PDF OCR Obsidian](https://github.com/rodrigolanes/pdf-ocr-obsidian)
+
+Converta seus PDFs em arquivos Markdown facilmente com OCR usando Mistral
+
+- **Stack:** Python, OCR, Jupyter
+- **Status:** 🟢 Ativo
 
 ### 🎰 [Loterias Scraping](https://github.com/rodrigolanes/loterias) ⭐
 
