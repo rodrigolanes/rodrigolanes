@@ -72,19 +72,7 @@ Scraping do resultado das loterias em Python
 - **Stack:** Python
 - **Status:** 🟡 Manutenção
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolanes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/rodrigolanes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolanes&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/rodrigolanes)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigolanes&theme=radical&hide_border=true)](https://github.com/rodrigolanes)
-
-</div>
-
-## 💡 Áreas de Interesse
+##  Áreas de Interesse
 
 - 📱 Desenvolvimento Mobile (Flutter)
 - 🌐 Desenvolvimento Web (TypeScript/JavaScript)
